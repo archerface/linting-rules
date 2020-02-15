@@ -1,0 +1,20 @@
+{
+  "name": "linting-rules",
+  "version": "0.0.1",
+  "description": "My personal general purpose linting set up for js projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archerface/linting-rules.git"
+  },
+  "keywords": [],
+  "author": "archerface",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archerface/linting-rules/issues"
+  },
+  "homepage": "https://github.com/archerface/linting-rules#readme"
+}
